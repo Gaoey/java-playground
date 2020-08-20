@@ -10,4 +10,6 @@ import lombok.RequiredArgsConstructor;
 public class Person {
     private String name;
     private Integer age;
+    private String lastname;
+    private String middlename;
 }
